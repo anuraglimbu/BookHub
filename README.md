@@ -1,2 +1,5 @@
-# BookHub
-A simple bookstore with CRUD operations for admin and Cart functionality on client side written using PHP and MySQL.
+# BookHub Online Book Store
+
+### Admin User
+- **uersname**: admin
+- **password**: admin123
